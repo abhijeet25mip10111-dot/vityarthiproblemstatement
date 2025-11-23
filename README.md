@@ -37,7 +37,7 @@ Version Control: Git
 1. Clone the Repository
 Download the project files to your local machine:
 
-git clone [https://github.com/yourusername/attendance-tracker.git](https://github.com/yourusername/attendance-tracker.git)
+git clone [https://github.com/yourusername/attendance-tracker.git](https://github.com/abhijeet25mip10111-dot/vityarthiproblemstatement.git)
 cd attendance-tracker
 
 
