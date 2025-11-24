@@ -95,3 +95,7 @@ Check Summary View:
 Navigate to the summary URL: http://127.0.0.1:5000/summary.
 
 Confirm that "John Doe" appears in the table with the correct present, absent (3), and percentage values.
+
+![2](https://github.com/user-attachments/assets/7e1af188-623a-47ea-ab1d-03e652f9c6f8)
+![1](https://github.com/user-attachments/assets/1d3394f3-1ce2-493d-952d-54418984d3b8)
+
